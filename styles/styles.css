@@ -55,7 +55,7 @@ main {
 .quote {
   font-size: 1.8rem;
   padding: 2.25rem 2rem;
-  color: white;
+  color: hsl(193, 38%, 86%);
 }
 
 .div-btn {
